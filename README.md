@@ -34,8 +34,8 @@
  `Ear`(入力)、`Brain`(思考)、`Voice`(出力)、`Face`(視覚)のように機能ごとにクラスを独立させ、メンテナンス性を向上させました [cite: 3]。また、`asyncio` による非同期通信を活用し、音声合成やAPIの通信待ち時間によってメインループがブロックされないように構築しています.
 
 ## 📅 ロードマップ (Roadmap)
-- [x] [cite_start]Phase 1: コア・ループの実装（マイク入力〜音声認識〜LLM〜音声合成の自動パイプライン化）
-- [x] [cite_start]Phase 2: VTube Studio連携によるリアルタイムな視覚同期・リップシンクの実装 
+- [x] Phase 1: コア・ループの実装（マイク入力〜音声認識〜LLM〜音声合成の自動パイプライン化）
+- [x] Phase 2: VTube Studio連携によるリアルタイムな視覚同期・リップシンクの実装 
 - [x] Phase 3: GradioによるWebUIの構築および詳細なコンテンツ生成モードの実装
-- [ ] [cite_start]Phase 4: ローカルドキュメントを参照するRAG (Retrieval-Augmented Generation) の導入 
-- [ ] [cite_start]Phase 5: Blender等と連携した感情パラメータに基づくモーション自動生成
+- [ ] Phase 4: ローカルドキュメントを参照するRAG (Retrieval-Augmented Generation) の導入 
+- [ ] Phase 5: Blender等と連携した感情パラメータに基づくモーション自動生成
