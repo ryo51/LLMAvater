@@ -1,4 +1,4 @@
-# Project Novise: Local AI Virtual Assistant
+#  Local AI Virtual Assistant
 
 完全ローカル環境で動作する、音声対話およびシチュエーションボイス生成が可能なパーソナルAIアシスタントシステムです.
 
