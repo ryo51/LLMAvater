@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Project Outputs & Temp files (ソース 3, 8)
+Audiofiles/
+generated_script.txt
+web_cache/
+
+# Private Credentials / Tokens (ソース 9)
+vts_token.txt
+*.token
+
+# OS files
+.DS_Store
+Thumbs.db
