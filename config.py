@@ -20,8 +20,8 @@ VTS_IP = "127.0.0.1"
 VTS_PORT = 33333
 
 # --- ファイル設定 ---
-REF_WAV_PATH = "voice_000627.wav"
-REF_TEXT = "熱が出てきたのかなちょっと失礼するよどうやら併熱のようだ" 
+REF_WAV_PATH = "sample.wav"
+REF_TEXT = "音声ファイルの文字起こしを入力してください" 
 REF_LANG = "日文"
 
 # --- 音声設定 ---
